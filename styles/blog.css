@@ -10,3 +10,9 @@ div{
     box-shadow: 2px 2px 5px 5px blue;
     background-color: beige;
 }
+#rafi{
+    width: 50%;
+    border-radius: 10px;
+    /* box-shadow: 3px 3px 3px 3px blue; */
+    box-shadow: 5px 5px rgb(8, 233, 218);
+}
